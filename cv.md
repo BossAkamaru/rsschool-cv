@@ -1,5 +1,8 @@
 # Nishonov Akmaljon 
 
+### Junior Frontend Developer
+
+*********
 ### Contact Information:
 __Phone:__ +998 87 848 56 65  
 __Email:__ akmal0325nishonov@gmail.com  
@@ -40,7 +43,7 @@ function multiply(a, b){
 + English (B2)
 + Russian (native)
 + Uzbek (native)
-*********
+
 
 
 
