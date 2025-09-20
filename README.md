@@ -1,1 +1,1 @@
-https://GITHUB-BossAkamaru.github.io/rsschool-cv/cv
+https://BossAkamaru.github.io/rsschool-cv/cv
