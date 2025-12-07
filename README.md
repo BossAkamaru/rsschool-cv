@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BossAkamaru.github.io/rsschool-cv/
